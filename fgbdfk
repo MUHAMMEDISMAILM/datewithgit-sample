@@ -1,0 +1,48 @@
+[33mcommit 0668631d83daba024fdae7b3b66fd689d2a96218[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m)[m
+Author: Muhammed IsmailM <ismailm9033@gmail.com>
+Date:   Thu May 11 21:00:07 2023 -0700
+
+    hello file modified
+
+[33mcommit b82ce8dd8a02b5d98ce31eda01a589759c9f67c2[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Muhammed IsmailM <ismailm9033@gmail.com>
+Date:   Thu May 11 20:56:14 2023 -0700
+
+    hey file modified
+
+[33mcommit 8f6a00d6ab824cc32014ef81fe2c339893a19b20[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: 5bca1a0 bb5ee53
+Author: Muhammed IsmailM <ismailm9033@gmail.com>
+Date:   Thu May 11 20:51:44 2023 -0700
+
+    WIP on feature: 5bca1a0  hey file  edited
+
+[33mcommit bb5ee533e1f458796ce47c6913c2b51fa596917a[m
+Author: Muhammed IsmailM <ismailm9033@gmail.com>
+Date:   Thu May 11 20:51:44 2023 -0700
+
+    index on feature: 5bca1a0  hey file  edited
+
+[33mcommit 5bca1a049245a23c33b6ed7b341f493bb0fad434[m
+Author: Muhammed IsmailM <ismailm9033@gmail.com>
+Date:   Thu May 11 20:38:20 2023 -0700
+
+     hey file  edited
+
+[33mcommit 0580e49cd5da1452fb5afc744cfe910b486cfb57[m
+Author: Muhammed IsmailM <ismailm9033@gmail.com>
+Date:   Thu May 11 20:31:52 2023 -0700
+
+    second file added
+
+[33mcommit bafe295a3ec977b547d7a2c5da1666d6740db45f[m
+Author: Muhammed IsmailM <ismailm9033@gmail.com>
+Date:   Wed May 10 20:37:46 2023 -0700
+
+    add some message
+
+[33mcommit 965cb0a23fd05b12a7c01a13110f3d9d36ef166c[m
+Author: Muhammed IsmailM <ismailm9033@gmail.com>
+Date:   Wed May 10 20:34:59 2023 -0700
+
+    initial commit
